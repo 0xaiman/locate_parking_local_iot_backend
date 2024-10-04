@@ -2,7 +2,7 @@
 
 # Local Backend (Flask)
 
-This project is a prototype Flask application that connects to a database and sets up API routes for use. The application is designed to run locally and integrated with IoT systems and communicate with AWS backend
+This project is a prototype Flask application that manages data from IoT devices, connects to a database and sets up API routes . The application is designed to run locally and integrated with IoT systems and communicate with AWS backend
 
 ## Requirements
 
